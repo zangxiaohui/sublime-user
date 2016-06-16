@@ -1,0 +1,6 @@
+{
+  "browsers": ["last 5 version", "> 0.1%", "> 0.1% in US", "ie 8", "ie 7"],
+  "cascade": true,
+  "remove": true,
+  "prefixOnSave": false
+}
